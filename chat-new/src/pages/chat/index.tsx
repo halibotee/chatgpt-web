@@ -28,7 +28,7 @@ const initialMessages = [
     {
         type: 'text',
         content: {
-            text: '您好，我是AI助理',
+            text: '本系统仅用于大科学装置技术调研，请依照当地法律，合法合规使用！',
         },
         user: {avatar: '//gitclone.com/download1/gitclone.png'},
     },
